@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebasePDF</string>
+    <string name="no_file_selected">No file selected</string>
+    <string name="upload_pdf">Upload PDF</string>
+    <string name="show_all">Show All</string>
+    <string name="pdf_file">PDF File</string>
+    <string name="download_pdf">Download PDF</string>
+</resources>

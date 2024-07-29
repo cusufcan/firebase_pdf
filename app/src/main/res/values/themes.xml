@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FirebasePDF" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@color/secondary</item>
+    </style>
+
+    <style name="Theme.FirebasePDF" parent="Base.Theme.FirebasePDF" />
+</resources>
